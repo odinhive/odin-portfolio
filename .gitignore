@@ -1,0 +1,6 @@
+# 不上傳到網站的素材與舊版檔案
+_素材/
+_舊版/
+.claude/
+Thumbs.db
+desktop.ini
